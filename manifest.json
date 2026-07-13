@@ -1,0 +1,31 @@
+{
+  "name": "Ozon Design — Prototype Builder",
+  "id": "1520713202607130001",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "documentAccess": "dynamic-page",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  },
+  "menu": [
+    {
+      "name": "Импортировать экраны и собрать прототип",
+      "command": "import"
+    },
+    {
+      "name": "Восстановить все прототипные связи",
+      "command": "repair"
+    },
+    {
+      "name": "Проверить кликабельный прототип",
+      "command": "validate"
+    }
+  ]
+}

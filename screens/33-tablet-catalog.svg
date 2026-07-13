@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="2450" viewBox="0 0 768 2450">
+  <title>Ozon Design — Планшетный каталог</title>
+  <desc>Ozon Design — импортируемый экран для Figma Design. Корневой фрейм: FRAME__TABLET__CATALOG.</desc>
+  <defs>
+    <linearGradient id="heroShade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#101318" stop-opacity=".58"/><stop offset=".62" stop-color="#101318" stop-opacity=".05"/><stop offset="1" stop-color="#101318" stop-opacity=".12"/></linearGradient>
+  </defs>
+  <g id="FRAME__TABLET__CATALOG" data-name="FRAME__TABLET__CATALOG"><rect x="0" y="0" width="768" height="2450" rx="0" fill="#FFFFFF" /><rect x="0" y="0" width="768" height="72" rx="0" fill="#FFFFFF" /><text x="20" y="44" font-family="Onest, Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#13151A" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="20" dy="0">Ozon Design</tspan></text>
+      <g id="HOTSPOT__HEADER__FAVORITES" data-name="HOTSPOT__HEADER__FAVORITES"><circle cx="684" cy="36" r="22" fill="#FFF0F6" /><g transform="translate(672 24) scale(1)"><path d="M20.8 4.7a5.5 5.5 0 0 0-7.8 0L12 5.8l-1.1-1.1a5.5 5.5 0 1 0-7.8 7.8l1.1 1L12 21l7.8-7.5 1-1a5.5 5.5 0 0 0 0-7.8Z" fill="none" stroke="#F43F8C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g><rect id="HOTSPOT__HEADER__FAVORITES__TARGET" data-name="HOTSPOT__HEADER__FAVORITES__TARGET" x="662" y="14" width="44" height="44" rx="8" fill="#FFFFFF" fill-opacity="0.001"/></g>
+      <g id="HOTSPOT__HEADER__MENU" data-name="HOTSPOT__HEADER__MENU"><circle cx="736" cy="36" r="22" fill="#F5F6F8" /><g transform="translate(724 24) scale(1)"><path d="M3 6h18M3 12h18M3 18h18" stroke="#13151A" stroke-width="2" stroke-linecap="round"/></g><rect id="HOTSPOT__HEADER__MENU__TARGET" data-name="HOTSPOT__HEADER__MENU__TARGET" x="714" y="14" width="44" height="44" rx="8" fill="#FFFFFF" fill-opacity="0.001"/></g><line x1="0" y1="71" x2="768" y2="71" stroke="#E7E9ED" stroke-width="1" /><text x="32" y="140" font-family="Onest, Inter, Arial, sans-serif" font-size="38" font-weight="720" fill="#13151A" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="32" dy="0">Каталог дизайна</tspan></text><text x="32" y="185" font-family="Onest, Inter, Arial, sans-serif" font-size="15" font-weight="430" fill="#6C717C" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="32" dy="0">Проекты от студий и брендов</tspan></text><g id="HOTSPOT__TABLET_CATALOG__SEARCH" data-name="HOTSPOT__TABLET_CATALOG__SEARCH"><rect x="32" y="230" width="704" height="54" rx="12" fill="#FFFFFF" stroke="#E7E9ED"/><g transform="translate(50 245) scale(1)"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="#6C717C" stroke-width="1.8"/><path d="m15.5 15.5 5 5" stroke="#6C717C" stroke-width="1.8" stroke-linecap="round"/></g><text x="88" y="265" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="450" fill="#6C717C" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="88" dy="0">Поиск по проектам</tspan></text><rect id="HOTSPOT__TABLET_CATALOG__SEARCH__TARGET" data-name="HOTSPOT__TABLET_CATALOG__SEARCH__TARGET" x="32" y="230" width="704" height="54" rx="8" fill="#FFFFFF" fill-opacity="0.001"/></g><g id="HOTSPOT__TABLET_CATALOG__FILTERS" data-name="HOTSPOT__TABLET_CATALOG__FILTERS"><rect x="32" y="310" width="154" height="52" rx="12" fill="#FFFFFF" stroke="#E7E9ED" stroke-width="1"/><text x="109" y="343" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="650" fill="#13151A" text-anchor="middle" letter-spacing="0" opacity="1"><tspan x="109" dy="0">Фильтры</tspan></text><rect id="HOTSPOT__TABLET_CATALOG__FILTERS__TARGET" data-name="HOTSPOT__TABLET_CATALOG__FILTERS__TARGET" x="32" y="310" width="154" height="52" rx="8" fill="#FFFFFF" fill-opacity="0.001"/></g><g id="HOTSPOT__TABLET_FILTER__INTERIOR" data-name="HOTSPOT__TABLET_FILTER__INTERIOR"><rect x="202" y="315" width="128" height="42" rx="21" fill="#005BFF" /><text x="266" y="342" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" letter-spacing="0" opacity="1"><tspan x="266" dy="0">Интерьер</tspan></text><rect id="HOTSPOT__TABLET_FILTER__INTERIOR__TARGET" data-name="HOTSPOT__TABLET_FILTER__INTERIOR__TARGET" x="202" y="315" width="128" height="42" rx="8" fill="#FFFFFF" fill-opacity="0.001"/></g><g id="HOTSPOT__TABLET_FILTER__LIVING" data-name="HOTSPOT__TABLET_FILTER__LIVING"><rect x="340" y="315" width="128" height="42" rx="21" fill="#005BFF" /><text x="404" y="342" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" letter-spacing="0" opacity="1"><tspan x="404" dy="0">Гостиная</tspan></text><rect id="HOTSPOT__TABLET_FILTER__LIVING__TARGET" data-name="HOTSPOT__TABLET_FILTER__LIVING__TARGET" x="340" y="315" width="128" height="42" rx="8" fill="#FFFFFF" fill-opacity="0.001"/></g><g id="HOTSPOT__TABLET_FILTER__SCANDINAVIAN" data-name="HOTSPOT__TABLET_FILTER__SCANDINAVIAN"><rect x="478" y="315" width="170" height="42" rx="21" fill="#005BFF" /><text x="563" y="342" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" letter-spacing="0" opacity="1"><tspan x="563" dy="0">Скандинавский</tspan></text><rect id="HOTSPOT__TABLET_FILTER__SCANDINAVIAN__TARGET" data-name="HOTSPOT__TABLET_FILTER__SCANDINAVIAN__TARGET" x="478" y="315" width="170" height="42" rx="8" fill="#FFFFFF" fill-opacity="0.001"/></g><text x="32" y="420" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#6C717C" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="32" dy="0">6 проектов</tspan></text><g id="HOTSPOT__PROJECT__NORDIC_LIVING" data-name="HOTSPOT__PROJECT__NORDIC_LIVING"><rect x="32" y="465" width="344" height="480" rx="18" fill="#FFFFFF" /><g id="ART__nordic-living" data-name="ART__nordic-living" transform="translate(32 465)">
+    <defs><clipPath id="ART_CLIP_141"><rect width="1200" height="760" rx="30"/></clipPath></defs>
+    <g transform="scale(0.29 0.47)" clip-path="url(#ART_CLIP_141)"><rect x="0" y="0" width="1200" height="760" rx="0" fill="#E9E1D5" /><rect x="0" y="540" width="1200" height="220" rx="0" fill="#C69479" opacity=".64"/>
+    <rect x="760" y="82" width="310" height="340" rx="6" fill="#CFE0E2" />
+    <line x1="915" y1="82" x2="915" y2="422" stroke="#F7F5EF" stroke-width="8" /><line x1="760" y1="250" x2="1070" y2="250" stroke="#F7F5EF" stroke-width="8" />
+    <ellipse cx="570" cy="626" rx="360" ry="72" fill="#EFE9DF" opacity=".86"/>
+    <rect x="365" y="390" width="405" height="168" rx="28" fill="#F5F2EC" /><rect x="405" y="312" width="326" height="148" rx="26" fill="#EBE8E1" />
+    <rect x="436" y="370" width="108" height="92" rx="16" fill="#94AAA5" /><rect x="620" y="370" width="105" height="92" rx="16" fill="#C69479" />
+    <rect x="792" y="526" width="174" height="38" rx="14" fill="#2D3334" /><line x1="879" y1="558" x2="879" y2="650" stroke="#2D3334" stroke-width="16" stroke-linecap="round"/>
+    <line x1="1010" y1="275" x2="1010" y2="565" stroke="#2D3334" stroke-width="12" stroke-linecap="round"/>
+    <path d="M948 285c17-76 104-76 125 0Z" fill="#2D3334"/>
+    <circle cx="206" cy="250" r="78" fill="#94AAA5" opacity=".20"/>
+    <path d="M207 190v235M150 268l57-47 61 46M164 327l43-41 52 42" stroke="#2D3334" stroke-width="8" stroke-linecap="round" opacity=".58" fill="none"/>
+    <rect x="168" y="423" width="84" height="128" rx="18" fill="#2D3334" opacity=".72"/></g>
+  </g>
+    <circle cx="342" cy="495" r="21" fill="#FFFFFF" fill-opacity=".94"/>
+    <g transform="translate(330 483) scale(1)"><path d="M20.8 4.7a5.5 5.5 0 0 0-7.8 0L12 5.8l-1.1-1.1a5.5 5.5 0 1 0-7.8 7.8l1.1 1L12 21l7.8-7.5 1-1a5.5 5.5 0 0 0 0-7.8Z" fill="none" stroke="#13151A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="32" y="850" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#6C717C" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="32" dy="0">Интерьер · Скандинавский · 42 м²</tspan></text>
+    <text x="32" y="883" font-family="Onest, Inter, Arial, sans-serif" font-size="22" font-weight="650" fill="#13151A" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="32" dy="0">Северная гостиная</tspan></text>
+    <text x="32" y="919" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="650" fill="#005BFF" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="32" dy="0">Nordform Studio</tspan></text>
+    <rect id="HOTSPOT__PROJECT__NORDIC_LIVING__TARGET" data-name="HOTSPOT__PROJECT__NORDIC_LIVING__TARGET" x="32" y="465" width="344" height="480" rx="8" fill="#FFFFFF" fill-opacity="0.001"/></g><g id="HOTSPOT__PROJECT__QUIET_OFFICE" data-name="HOTSPOT__PROJECT__QUIET_OFFICE"><rect x="392" y="465" width="344" height="480" rx="18" fill="#FFFFFF" /><g id="ART__quiet-office" data-name="ART__quiet-office" transform="translate(392 465)">
+    <defs><clipPath id="ART_CLIP_142"><rect width="1200" height="760" rx="30"/></clipPath></defs>
+    <g transform="scale(0.29 0.47)" clip-path="url(#ART_CLIP_142)"><rect x="0" y="0" width="1200" height="760" rx="0" fill="#9B9388" /><rect x="0" y="540" width="1200" height="220" rx="0" fill="#B47D5D" opacity=".64"/>
+    <rect x="760" y="82" width="310" height="340" rx="6" fill="#CFE0E2" />
+    <line x1="915" y1="82" x2="915" y2="422" stroke="#F7F5EF" stroke-width="8" /><line x1="760" y1="250" x2="1070" y2="250" stroke="#F7F5EF" stroke-width="8" />
+    <ellipse cx="570" cy="626" rx="360" ry="72" fill="#EFE9DF" opacity=".86"/>
+    <rect x="365" y="390" width="405" height="168" rx="28" fill="#F5F2EC" /><rect x="405" y="312" width="326" height="148" rx="26" fill="#EBE8E1" />
+    <rect x="436" y="370" width="108" height="92" rx="16" fill="#40484A" /><rect x="620" y="370" width="105" height="92" rx="16" fill="#B47D5D" />
+    <rect x="792" y="526" width="174" height="38" rx="14" fill="#202426" /><line x1="879" y1="558" x2="879" y2="650" stroke="#202426" stroke-width="16" stroke-linecap="round"/>
+    <line x1="1010" y1="275" x2="1010" y2="565" stroke="#202426" stroke-width="12" stroke-linecap="round"/>
+    <path d="M948 285c17-76 104-76 125 0Z" fill="#202426"/>
+    <circle cx="206" cy="250" r="78" fill="#40484A" opacity=".20"/>
+    <path d="M207 190v235M150 268l57-47 61 46M164 327l43-41 52 42" stroke="#202426" stroke-width="8" stroke-linecap="round" opacity=".58" fill="none"/>
+    <rect x="168" y="423" width="84" height="128" rx="18" fill="#202426" opacity=".72"/></g>
+  </g>
+    <circle cx="702" cy="495" r="21" fill="#FFFFFF" fill-opacity=".94"/>
+    <g transform="translate(690 483) scale(1)"><path d="M20.8 4.7a5.5 5.5 0 0 0-7.8 0L12 5.8l-1.1-1.1a5.5 5.5 0 1 0-7.8 7.8l1.1 1L12 21l7.8-7.5 1-1a5.5 5.5 0 0 0 0-7.8Z" fill="none" stroke="#13151A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="392" y="850" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#6C717C" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="392" dy="0">Интерьер · Минимализм · 18 м²</tspan></text>
+    <text x="392" y="883" font-family="Onest, Inter, Arial, sans-serif" font-size="22" font-weight="650" fill="#13151A" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="392" dy="0">Тихий кабинет</tspan></text>
+    <text x="392" y="919" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="650" fill="#005BFF" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="392" dy="0">Forma Lab</tspan></text>
+    <rect id="HOTSPOT__PROJECT__QUIET_OFFICE__TARGET" data-name="HOTSPOT__PROJECT__QUIET_OFFICE__TARGET" x="392" y="465" width="344" height="480" rx="8" fill="#FFFFFF" fill-opacity="0.001"/></g><g id="HOTSPOT__PROJECT__BRIGHT_KITCHEN" data-name="HOTSPOT__PROJECT__BRIGHT_KITCHEN"><rect x="32" y="1055" width="344" height="480" rx="18" fill="#FFFFFF" /><g id="ART__bright-kitchen" data-name="ART__bright-kitchen" transform="translate(32 1055)">
+    <defs><clipPath id="ART_CLIP_143"><rect width="1200" height="760" rx="30"/></clipPath></defs>
+    <g transform="scale(0.29 0.47)" clip-path="url(#ART_CLIP_143)"><rect x="0" y="0" width="1200" height="760" rx="0" fill="#EEEAE1" /><rect x="0" y="540" width="1200" height="220" rx="0" fill="#93A9A2" opacity=".64"/>
+    <rect x="760" y="82" width="310" height="340" rx="6" fill="#CFE0E2" />
+    <line x1="915" y1="82" x2="915" y2="422" stroke="#F7F5EF" stroke-width="8" /><line x1="760" y1="250" x2="1070" y2="250" stroke="#F7F5EF" stroke-width="8" />
+    <ellipse cx="570" cy="626" rx="360" ry="72" fill="#EFE9DF" opacity=".86"/>
+    <rect x="365" y="390" width="405" height="168" rx="28" fill="#F5F2EC" /><rect x="405" y="312" width="326" height="148" rx="26" fill="#EBE8E1" />
+    <rect x="436" y="370" width="108" height="92" rx="16" fill="#C7C0B2" /><rect x="620" y="370" width="105" height="92" rx="16" fill="#93A9A2" />
+    <rect x="792" y="526" width="174" height="38" rx="14" fill="#3B4140" /><line x1="879" y1="558" x2="879" y2="650" stroke="#3B4140" stroke-width="16" stroke-linecap="round"/>
+    <line x1="1010" y1="275" x2="1010" y2="565" stroke="#3B4140" stroke-width="12" stroke-linecap="round"/>
+    <path d="M948 285c17-76 104-76 125 0Z" fill="#3B4140"/>
+    <circle cx="206" cy="250" r="78" fill="#C7C0B2" opacity=".20"/>
+    <path d="M207 190v235M150 268l57-47 61 46M164 327l43-41 52 42" stroke="#3B4140" stroke-width="8" stroke-linecap="round" opacity=".58" fill="none"/>
+    <rect x="168" y="423" width="84" height="128" rx="18" fill="#3B4140" opacity=".72"/></g>
+  </g>
+    <circle cx="342" cy="1085" r="21" fill="#FFFFFF" fill-opacity=".94"/>
+    <g transform="translate(330 1073) scale(1)"><path d="M20.8 4.7a5.5 5.5 0 0 0-7.8 0L12 5.8l-1.1-1.1a5.5 5.5 0 1 0-7.8 7.8l1.1 1L12 21l7.8-7.5 1-1a5.5 5.5 0 0 0 0-7.8Z" fill="none" stroke="#13151A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="32" y="1440" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#6C717C" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="32" dy="0">Интерьер · Неоклассика · 27 м²</tspan></text>
+    <text x="32" y="1473" font-family="Onest, Inter, Arial, sans-serif" font-size="22" font-weight="650" fill="#13151A" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="32" dy="0">Светлая кухня</tspan></text>
+    <text x="32" y="1509" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="650" fill="#005BFF" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="32" dy="0">Linea Interior</tspan></text>
+    <rect id="HOTSPOT__PROJECT__BRIGHT_KITCHEN__TARGET" data-name="HOTSPOT__PROJECT__BRIGHT_KITCHEN__TARGET" x="32" y="1055" width="344" height="480" rx="8" fill="#FFFFFF" fill-opacity="0.001"/></g><g id="HOTSPOT__PROJECT__OAK_DINING" data-name="HOTSPOT__PROJECT__OAK_DINING"><rect x="392" y="1055" width="344" height="480" rx="18" fill="#FFFFFF" /><g id="ART__oak-dining" data-name="ART__oak-dining" transform="translate(392 1055)">
+    <defs><clipPath id="ART_CLIP_144"><rect width="1200" height="760" rx="30"/></clipPath></defs>
+    <g transform="scale(0.29 0.47)" clip-path="url(#ART_CLIP_144)"><rect x="0" y="0" width="1200" height="760" rx="0" fill="#EADFCF" /><rect x="0" y="540" width="1200" height="220" rx="0" fill="#7B9189" opacity=".64"/>
+    <rect x="760" y="82" width="310" height="340" rx="6" fill="#CFE0E2" />
+    <line x1="915" y1="82" x2="915" y2="422" stroke="#F7F5EF" stroke-width="8" /><line x1="760" y1="250" x2="1070" y2="250" stroke="#F7F5EF" stroke-width="8" />
+    <ellipse cx="570" cy="626" rx="360" ry="72" fill="#EFE9DF" opacity=".86"/>
+    <rect x="365" y="390" width="405" height="168" rx="28" fill="#F5F2EC" /><rect x="405" y="312" width="326" height="148" rx="26" fill="#EBE8E1" />
+    <rect x="436" y="370" width="108" height="92" rx="16" fill="#C09A72" /><rect x="620" y="370" width="105" height="92" rx="16" fill="#7B9189" />
+    <rect x="792" y="526" width="174" height="38" rx="14" fill="#382F2A" /><line x1="879" y1="558" x2="879" y2="650" stroke="#382F2A" stroke-width="16" stroke-linecap="round"/>
+    <line x1="1010" y1="275" x2="1010" y2="565" stroke="#382F2A" stroke-width="12" stroke-linecap="round"/>
+    <path d="M948 285c17-76 104-76 125 0Z" fill="#382F2A"/>
+    <circle cx="206" cy="250" r="78" fill="#C09A72" opacity=".20"/>
+    <path d="M207 190v235M150 268l57-47 61 46M164 327l43-41 52 42" stroke="#382F2A" stroke-width="8" stroke-linecap="round" opacity=".58" fill="none"/>
+    <rect x="168" y="423" width="84" height="128" rx="18" fill="#382F2A" opacity=".72"/></g>
+  </g>
+    <circle cx="702" cy="1085" r="21" fill="#FFFFFF" fill-opacity=".94"/>
+    <g transform="translate(690 1073) scale(1)"><path d="M20.8 4.7a5.5 5.5 0 0 0-7.8 0L12 5.8l-1.1-1.1a5.5 5.5 0 1 0-7.8 7.8l1.1 1L12 21l7.8-7.5 1-1a5.5 5.5 0 0 0 0-7.8Z" fill="none" stroke="#13151A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="392" y="1440" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#6C717C" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="392" dy="0">Интерьер · Скандинавский · 34 м²</tspan></text>
+    <text x="392" y="1473" font-family="Onest, Inter, Arial, sans-serif" font-size="22" font-weight="650" fill="#13151A" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="392" dy="0">Столовая из светлого дуба</tspan></text>
+    <text x="392" y="1509" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="650" fill="#005BFF" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="392" dy="0">Nordform Studio</tspan></text>
+    <rect id="HOTSPOT__PROJECT__OAK_DINING__TARGET" data-name="HOTSPOT__PROJECT__OAK_DINING__TARGET" x="392" y="1055" width="344" height="480" rx="8" fill="#FFFFFF" fill-opacity="0.001"/></g><g id="HOTSPOT__PROJECT__SOFT_BEDROOM" data-name="HOTSPOT__PROJECT__SOFT_BEDROOM"><rect x="32" y="1645" width="344" height="480" rx="18" fill="#FFFFFF" /><g id="ART__soft-bedroom" data-name="ART__soft-bedroom" transform="translate(32 1645)">
+    <defs><clipPath id="ART_CLIP_145"><rect width="1200" height="760" rx="30"/></clipPath></defs>
+    <g transform="scale(0.29 0.47)" clip-path="url(#ART_CLIP_145)"><rect x="0" y="0" width="1200" height="760" rx="0" fill="#EEE0DD" /><rect x="0" y="540" width="1200" height="220" rx="0" fill="#A8B5AC" opacity=".64"/>
+    <rect x="760" y="82" width="310" height="340" rx="6" fill="#CFE0E2" />
+    <line x1="915" y1="82" x2="915" y2="422" stroke="#F7F5EF" stroke-width="8" /><line x1="760" y1="250" x2="1070" y2="250" stroke="#F7F5EF" stroke-width="8" />
+    <ellipse cx="570" cy="626" rx="360" ry="72" fill="#EFE9DF" opacity=".86"/>
+    <rect x="365" y="390" width="405" height="168" rx="28" fill="#F5F2EC" /><rect x="405" y="312" width="326" height="148" rx="26" fill="#EBE8E1" />
+    <rect x="436" y="370" width="108" height="92" rx="16" fill="#CFAFA7" /><rect x="620" y="370" width="105" height="92" rx="16" fill="#A8B5AC" />
+    <rect x="792" y="526" width="174" height="38" rx="14" fill="#4B4140" /><line x1="879" y1="558" x2="879" y2="650" stroke="#4B4140" stroke-width="16" stroke-linecap="round"/>
+    <line x1="1010" y1="275" x2="1010" y2="565" stroke="#4B4140" stroke-width="12" stroke-linecap="round"/>
+    <path d="M948 285c17-76 104-76 125 0Z" fill="#4B4140"/>
+    <circle cx="206" cy="250" r="78" fill="#CFAFA7" opacity=".20"/>
+    <path d="M207 190v235M150 268l57-47 61 46M164 327l43-41 52 42" stroke="#4B4140" stroke-width="8" stroke-linecap="round" opacity=".58" fill="none"/>
+    <rect x="168" y="423" width="84" height="128" rx="18" fill="#4B4140" opacity=".72"/></g>
+  </g>
+    <circle cx="342" cy="1675" r="21" fill="#FFFFFF" fill-opacity=".94"/>
+    <g transform="translate(330 1663) scale(1)"><path d="M20.8 4.7a5.5 5.5 0 0 0-7.8 0L12 5.8l-1.1-1.1a5.5 5.5 0 1 0-7.8 7.8l1.1 1L12 21l7.8-7.5 1-1a5.5 5.5 0 0 0 0-7.8Z" fill="none" stroke="#13151A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="32" y="2030" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#6C717C" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="32" dy="0">Интерьер · Современный · 26 м²</tspan></text>
+    <text x="32" y="2063" font-family="Onest, Inter, Arial, sans-serif" font-size="22" font-weight="650" fill="#13151A" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="32" dy="0">Спальня с мягким светом</tspan></text>
+    <text x="32" y="2099" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="650" fill="#005BFF" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="32" dy="0">Nordform Studio</tspan></text>
+    <rect id="HOTSPOT__PROJECT__SOFT_BEDROOM__TARGET" data-name="HOTSPOT__PROJECT__SOFT_BEDROOM__TARGET" x="32" y="1645" width="344" height="480" rx="8" fill="#FFFFFF" fill-opacity="0.001"/></g><g id="HOTSPOT__PROJECT__PINE_HOUSE" data-name="HOTSPOT__PROJECT__PINE_HOUSE"><rect x="392" y="1645" width="344" height="480" rx="18" fill="#FFFFFF" /><g id="ART__pine-house" data-name="ART__pine-house" transform="translate(392 1645)">
+    <defs><clipPath id="ART_CLIP_146"><rect width="1200" height="760" rx="30"/></clipPath></defs>
+    <g transform="scale(0.29 0.47)" clip-path="url(#ART_CLIP_146)"><rect x="0" y="0" width="1200" height="760" rx="0" fill="#8FA096" /><circle cx="980" cy="148" r="72" fill="#F6E7BB" opacity=".82"/>
+    <path d="M0 448 190 300l174 92 210-170 220 187 180-112 226 164v299H0Z" fill="#53645B" opacity=".48"/>
+    <path d="M0 535c210-44 345-36 516 8 222 58 411 33 684-54v271H0Z" fill="#53645B"/>
+    <path d="M210 488 526 312h390l132 176v170H210Z" fill="#252B29"/>
+    <line x1="526" y1="312" x2="526" y2="658" stroke="#A78364" stroke-width="12" opacity=".88"/>
+    <rect x="278" y="442" width="226" height="158" rx="0" fill="#D4E3E3" opacity=".92"/><rect x="566" y="370" width="300" height="230" rx="0" fill="#BFD2D4" opacity=".92"/>
+    <line x1="716" y1="370" x2="716" y2="600" stroke="#F7F4EA" stroke-width="8" /><line x1="566" y1="486" x2="866" y2="486" stroke="#F7F4EA" stroke-width="8" />
+    <line x1="163" y1="658" x2="1093" y2="658" stroke="#A78364" stroke-width="32" stroke-linecap="round"/>
+    <path d="M0 700c280-74 535-52 754 8 146 40 294 44 446 8v44H0Z" fill="#769395" opacity=".86"/></g>
+  </g>
+    <circle cx="702" cy="1675" r="21" fill="#FFFFFF" fill-opacity=".94"/>
+    <g transform="translate(690 1663) scale(1)"><path d="M20.8 4.7a5.5 5.5 0 0 0-7.8 0L12 5.8l-1.1-1.1a5.5 5.5 0 1 0-7.8 7.8l1.1 1L12 21l7.8-7.5 1-1a5.5 5.5 0 0 0 0-7.8Z" fill="none" stroke="#13151A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="392" y="2030" font-family="Onest, Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#6C717C" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="392" dy="0">Архитектура · Экостиль · 148 м²</tspan></text>
+    <text x="392" y="2063" font-family="Onest, Inter, Arial, sans-serif" font-size="22" font-weight="650" fill="#13151A" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="392" dy="0">Дом в соснах</tspan></text>
+    <text x="392" y="2099" font-family="Onest, Inter, Arial, sans-serif" font-size="13" font-weight="650" fill="#005BFF" text-anchor="start" letter-spacing="0" opacity="1"><tspan x="392" dy="0">Nordform Studio</tspan></text>
+    <rect id="HOTSPOT__PROJECT__PINE_HOUSE__TARGET" data-name="HOTSPOT__PROJECT__PINE_HOUSE__TARGET" x="392" y="1645" width="344" height="480" rx="8" fill="#FFFFFF" fill-opacity="0.001"/></g></g>
+</svg>

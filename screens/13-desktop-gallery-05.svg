@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+  <title>Ozon Design — Галерея 5</title>
+  <desc>Ozon Design — импортируемый экран для Figma Design. Корневой фрейм: FRAME__DESKTOP__GALLERY__5.</desc>
+  <defs>
+    <linearGradient id="heroShade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#101318" stop-opacity=".58"/><stop offset=".62" stop-color="#101318" stop-opacity=".05"/><stop offset="1" stop-color="#101318" stop-opacity=".12"/></linearGradient>
+  </defs>
+  <g id="FRAME__DESKTOP__GALLERY__5" data-name="FRAME__DESKTOP__GALLERY__5"><rect x="0" y="0" width="1440" height="900" rx="0" fill="#FFFFFF" /><rect x="0" y="0" width="1440" height="900" rx="0" fill="#111317" /><g id="ART__LIGHTBOX_5" data-name="ART__LIGHTBOX_5" transform="translate(150 70)">
+    <defs><clipPath id="ART_CLIP_67"><rect width="1200" height="760" rx="30"/></clipPath></defs>
+    <g transform="scale(0.95 0.95)" clip-path="url(#ART_CLIP_67)"><rect x="0" y="0" width="1200" height="760" rx="0" fill="#E8DED1" /><rect x="0" y="540" width="1200" height="220" rx="0" fill="#C9A17E" opacity=".64"/>
+    <rect x="760" y="82" width="310" height="340" rx="6" fill="#CFE0E2" />
+    <line x1="915" y1="82" x2="915" y2="422" stroke="#F7F5EF" stroke-width="8" /><line x1="760" y1="250" x2="1070" y2="250" stroke="#F7F5EF" stroke-width="8" />
+    <ellipse cx="570" cy="626" rx="360" ry="72" fill="#EFE9DF" opacity=".86"/>
+    <rect x="365" y="390" width="405" height="168" rx="28" fill="#F5F2EC" /><rect x="405" y="312" width="326" height="148" rx="26" fill="#EBE8E1" />
+    <rect x="436" y="370" width="108" height="92" rx="16" fill="#A3B4A7" /><rect x="620" y="370" width="105" height="92" rx="16" fill="#C9A17E" />
+    <rect x="792" y="526" width="174" height="38" rx="14" fill="#37302C" /><line x1="879" y1="558" x2="879" y2="650" stroke="#37302C" stroke-width="16" stroke-linecap="round"/>
+    <line x1="1010" y1="275" x2="1010" y2="565" stroke="#37302C" stroke-width="12" stroke-linecap="round"/>
+    <path d="M948 285c17-76 104-76 125 0Z" fill="#37302C"/>
+    <circle cx="206" cy="250" r="78" fill="#A3B4A7" opacity=".20"/>
+    <path d="M207 190v235M150 268l57-47 61 46M164 327l43-41 52 42" stroke="#37302C" stroke-width="8" stroke-linecap="round" opacity=".58" fill="none"/>
+    <rect x="168" y="423" width="84" height="128" rx="18" fill="#37302C" opacity=".72"/></g>
+  </g><g id="HOTSPOT__GALLERY__CLOSE" data-name="HOTSPOT__GALLERY__CLOSE"><circle cx="1368" cy="50" r="28" fill="#FFFFFF" fill-opacity=".14"/><g transform="translate(1356 38) scale(1)"><path d="m5 5 14 14M19 5 5 19" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/></g><rect id="HOTSPOT__GALLERY__CLOSE__TARGET" data-name="HOTSPOT__GALLERY__CLOSE__TARGET" x="1340" y="22" width="56" height="56" rx="8" fill="#FFFFFF" fill-opacity="0.001"/></g><g id="HOTSPOT__GALLERY__PREV__4" data-name="HOTSPOT__GALLERY__PREV__4"><circle cx="88" cy="430" r="34" fill="#FFFFFF" fill-opacity=".16"/><g transform="translate(74 416) scale(1.17)"><path d="M19 12H5m5-5-5 5 5 5" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g><rect id="HOTSPOT__GALLERY__PREV__4__TARGET" data-name="HOTSPOT__GALLERY__PREV__4__TARGET" x="54" y="396" width="68" height="68" rx="8" fill="#FFFFFF" fill-opacity="0.001"/></g><g id="HOTSPOT__GALLERY__NEXT__6" data-name="HOTSPOT__GALLERY__NEXT__6"><circle cx="1352" cy="430" r="34" fill="#FFFFFF" fill-opacity=".16"/><g transform="translate(1338 416) scale(1.17)"><path d="M5 12h14m-5-5 5 5-5 5" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g><rect id="HOTSPOT__GALLERY__NEXT__6__TARGET" data-name="HOTSPOT__GALLERY__NEXT__6__TARGET" x="1318" y="396" width="68" height="68" rx="8" fill="#FFFFFF" fill-opacity="0.001"/></g><text x="720" y="842" font-family="Onest, Inter, Arial, sans-serif" font-size="14" font-weight="650" fill="#FFFFFF" text-anchor="middle" letter-spacing="0" opacity="1"><tspan x="720" dy="0">5 / 6</tspan></text></g>
+</svg>
