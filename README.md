@@ -1,37 +1,49 @@
-# Ozon Design — Prototype Builder
+# Ozon Design — Figma Prototype Builder
 
-Локальный сборщик кликабельного прототипа для бесплатного Figma Design. Он не использует платные функции, Figma MCP или внешнюю сеть.
+Clickable responsive marketplace prototype created in Figma.
 
-## Запуск
+[Open the prototype in Figma](https://www.figma.com/design/QNUXwR8HlOIm9rMdz00fG4)
 
-1. Распакуйте архив в постоянную папку.
-2. Откройте **Figma Desktop** и нужный файл Figma Design.
-3. Откройте меню **Plugins → Development → Import plugin from manifest…**.
-4. Выберите файл **manifest.json** из этой папки.
-5. Запустите **Plugins → Development → Ozon Design — Prototype Builder → Импортировать экраны и собрать прототип**.
-6. Дождитесь сообщения «Готово» — импорт и назначение связей могут занять несколько секунд.
+## Features
 
-## Что сделает импортёр
+- 34 responsive screens
+- Desktop, tablet and mobile layouts
+- 530 prototype interactions
+- 3 starting user flows
+- Navigation menus and buttons
+- Search, sorting and filters
+- Favorites and comparison states
+- Product gallery
+- Cart and checkout flow
+- Modal windows and interactive states
+- Local Figma prototype builder plugin
+- Import, repair and validation commands
 
-- добавит 34 редактируемых SVG-экрана на текущую страницу;
-- разложит их по секциям Desktop 1440, Mobile 390 и Tablet 768;
-- создаст фиксированные viewport-фреймы с вертикальной прокруткой;
-- назначит 530 прототипных переходов — по одному для каждой интерактивной зоны;
-- добавит три стартовые точки прототипа;
-- выделит стартовые экраны после завершения.
+## Installing the Figma plugin
 
-## Команды
+1. Download `Ozon-Design-Figma-Prototype-Builder.zip`.
+2. Extract the archive.
+3. Open Figma Design.
+4. Open `Plugins & widgets` → `Development`.
+5. Select `Import plugin from manifest`.
+6. Choose `plugin/manifest.json`.
+7. Run `Ozon Design — Prototype Builder`.
 
-- **Импортировать экраны и собрать прототип** — создаёт новый комплект экранов и подключает переходы.
-- **Восстановить все прототипные связи** — заново назначает реакции последнему импортированному комплекту, не создавая дубликаты.
-- **Проверить кликабельный прототип** — считает экраны и переходы и сообщает, есть ли неподключённые зоны.
+## Plugin commands
 
-Связаны основное меню, поиск, каталог, фильтры и их состояния, карточки проектов и компаний, добавление и удаление из избранного, шесть состояний галереи, коллекция, товарное модальное окно, пустое и заполненное избранное. Desktop, mobile и tablet получают отдельные стартовые точки.
+- **Import prototype** — creates all screens and connections.
+- **Repair connections** — restores missing interactions.
+- **Validate prototype** — checks screens, flows and transitions.
 
-Повторный запуск ничего не удаляет: новая копия будет создана справа от существующего контента. Один запуск можно целиком отменить через Undo.
+## Project structure
 
-## Важно
+- `plugin/` — ready-to-import Figma plugin
+- `source/` — plugin build and test scripts
+- `screens/` — SVG screen sources
+- `preview/` — screenshots for GitHub
+- `dist/` — downloadable plugin archive
 
-- Требуется настольное приложение Figma, поскольку импорт локального manifest выполняется через Development plugins.
-- Запускайте плагин внутри обычного файла Figma Design, не FigJam и не Slides.
-- Файлы SVG уже встроены в code.js; интернет и дополнительные файлы не нужны.
+## Disclaimer
+
+This is an independent educational design concept and is not affiliated
+with or endorsed by Ozon.
